@@ -990,13 +990,18 @@ with tab_shap:
                 rows.append({"Feature": fname, "SHAP Value": sv, "Feature Value": fv})
         beeswarm_df = pd.DataFrame(rows)
 
-        fig = px.strip(beeswarm_df, x="SHAP Value", y="Feature",
-                       color="Feature Value", color_continuous_scale="RdBu_r",
-                       stripmode="overlay")
-        fig.update_traces(jitter=0.4, marker_size=3, opacity=0.6)
-        st.plotly_chart(styled_fig(fig, f"SHAP Beeswarm Plot — {shap_choice}"),
-                        use_container_width=True)
+        beeswarm_df = beeswarm_df.dropna()
 
+fig = px.strip(
+    beeswarm_df,
+    x="SHAP Value",
+    y="Feature",
+    color="SHAP Value",
+    color_continuous_scale="RdBu_r",
+    stripmode="overlay",
+)
+
+st.plotly_chart(fig, use_container_width=True)
         st.markdown("### 💬 SHAP Business Interpretations")
         for _, row in shap_df.head(6).iterrows():
             feat = row["Feature"].replace("_"," ")
