@@ -1002,17 +1002,25 @@ fig = px.strip(
 )
 
 st.plotly_chart(fig, use_container_width=True)
-st.markdown("## 💬 SHAP Business Interpretations")
-        for _, row in shap_df.head(6).iterrows():
-            feat = row["Feature"].replace("_"," ")
-            pct  = row["Importance_Pct"]
-            direction = "positively" if shap_values[:, feat_names.index(row["Feature"])].mean() > 0 else "negatively"
-            st.markdown(f"""
-            <div class="insight-card">
-                <strong>{feat}</strong> drives {pct:.1f}% of {shap_choice} predictions
-                and on average {direction} influences the outcome.
-            </div>""", unsafe_allow_html=True)
 
+st.markdown("## 💬 SHAP Business Interpretations")
+
+for _, row in shap_df.head(6).iterrows():
+    feat = row["Feature"].replace("_", " ")
+    pct = row["Importance_Pct"]
+
+    direction = (
+        "positively"
+        if shap_values[:, feat_names.index(row["Feature"])].mean() > 0
+        else "negatively"
+    )
+
+    st.markdown(f"""
+    <div class="insight-card">
+        <strong>{feat}</strong> drives {pct:.1f}% of {shap_choice} predictions
+        and on average {direction} influences the outcome.
+    </div>
+    """, unsafe_allow_html=True)
 
 # ═══════════════════════════════════════════════════════════════
 # TAB 10 — FACTORY MAP
