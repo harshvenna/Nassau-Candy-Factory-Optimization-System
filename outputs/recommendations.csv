@@ -1,0 +1,101 @@
+Product,Region,Ship_Mode,Current_Factory,Recommended_Factory,Current_Distance_km,Alt_Distance_km,Current_Lead_Time_Days,Pred_Lead_Time_Days,Pred_Lead_Time_CI_Low,Pred_Lead_Time_CI_High,Current_Profit,Pred_Profit,Current_Risk,Alt_Risk,LT_Reduction_Pct,Profit_Improve_Pct,Risk_Reduction_Pct,Confidence_Score,Optimization_Score
+SweeTARTS,Interior,Second Class,Sugar Shack,Secret Factory,965.0,249.0,7.4,5.24,3.75,6.8,1.4,2.79,0.4009,0.268,29.19,99.29,33.15,70.8,77.59
+Lickable Wallpaper,Pacific,Same Day,Secret Factory,Lot's O' Nuts,2743.0,1108.0,2.8,2.12,1.0,3.65,20.0,39.06,0.3718,0.215,24.29,95.3,42.17,31.64,74.95
+Laffy Taffy,Pacific,Standard Class,Sugar Shack,Lot's O' Nuts,2409.0,1108.0,9.9,8.1,6.55,9.65,1.24,2.42,0.689,0.4908,18.18,95.16,28.77,80.97,74.84
+SweeTARTS,Interior,Second Class,Sugar Shack,The Other Factory,965.0,779.0,7.4,5.77,4.25,7.3,1.4,2.75,0.4009,0.3484,22.03,96.43,13.1,73.33,73.85
+Laffy Taffy,Atlantic,First Class,Sugar Shack,Wicked Choccy's,1935.0,1150.0,5.2,4.14,2.65,5.7,1.24,2.42,0.4005,0.3124,20.38,95.16,22.0,63.03,73.7
+Laffy Taffy,Interior,First Class,Sugar Shack,Secret Factory,965.0,249.0,3.9,3.24,1.75,4.8,1.24,2.47,0.2259,0.1757,16.92,99.19,22.22,52.76,73.12
+Laffy Taffy,Atlantic,First Class,Sugar Shack,Secret Factory,1935.0,1388.0,5.2,4.38,2.85,5.9,1.24,2.41,0.4005,0.3486,15.77,94.35,12.96,64.78,71.84
+SweeTARTS,Interior,Second Class,Sugar Shack,Wicked Choccy's,965.0,1234.0,7.4,6.22,4.75,7.75,1.4,2.73,0.4009,0.4175,15.95,95.0,-4.14,75.44,70.8
+Laffy Taffy,Atlantic,First Class,Sugar Shack,The Other Factory,1935.0,1529.0,5.2,4.52,3.05,6.05,1.24,2.4,0.4005,0.3701,13.08,93.55,7.59,66.07,70.71
+Wonka Bar - Fudge Mallows,Interior,Same Day,Lot's O' Nuts,Secret Factory,2345.0,249.0,3.34,1.44,1.0,2.8,7.44,7.16,0.3538,0.0925,56.89,-3.76,73.86,30.0,69.7
+Fun Dip,Gulf,Second Class,Sugar Shack,The Other Factory,2043.0,782.0,5.5,5.77,4.25,7.3,0.6,1.77,0.4276,0.3489,-4.91,195.0,18.41,73.31,69.52
+Wonka Bar - Nutty Crunch Surprise,Interior,Same Day,Lot's O' Nuts,Secret Factory,2345.0,249.0,2.98,1.44,1.0,2.8,7.91,7.43,0.3359,0.0925,51.72,-6.06,72.46,30.0,68.18
+Wonka Gum,Pacific,First Class,Secret Factory,Lot's O' Nuts,2743.0,1108.0,5.53,4.1,2.55,5.65,1.41,1.9,0.5085,0.3061,25.9,34.91,39.8,62.4,67.52
+Fizzy Lifting Drinks,Interior,First Class,Sugar Shack,Secret Factory,965.0,249.0,3.6,3.24,1.75,4.8,4.5,7.83,0.2109,0.1757,10.0,74.0,16.69,52.76,67.41
+Laffy Taffy,Pacific,Standard Class,Sugar Shack,Secret Factory,2409.0,2743.0,9.9,9.73,8.25,11.25,1.24,2.34,0.689,0.7388,1.72,88.71,-7.23,84.29,67.14
+Wonka Bar - Scrumdiddlyumptious,Interior,Same Day,Lot's O' Nuts,Secret Factory,2345.0,249.0,3.34,1.44,1.0,2.8,9.46,7.46,0.3536,0.0925,56.83,-21.18,73.84,30.0,67.07
+Laffy Taffy,Interior,First Class,Sugar Shack,The Other Factory,965.0,779.0,3.9,3.77,2.25,5.3,1.24,2.44,0.2259,0.2561,3.33,96.77,-13.37,59.17,66.8
+Wonka Bar - Milk Chocolate,Pacific,Same Day,Wicked Choccy's,Lot's O' Nuts,3790.0,1108.0,4.9,2.12,1.0,3.65,7.51,6.18,0.595,0.215,56.73,-17.73,63.87,31.64,66.66
+Laffy Taffy,Pacific,Standard Class,Sugar Shack,The Other Factory,2409.0,2903.0,9.9,9.89,8.35,11.45,1.24,2.33,0.689,0.763,0.1,87.9,-10.74,84.4,66.35
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,3445.0,1150.0,4.27,2.16,1.0,3.7,8.12,7.29,0.5243,0.221,49.36,-10.22,57.85,32.67,65.76
+Fun Dip,Gulf,Second Class,Sugar Shack,Secret Factory,2043.0,1369.0,5.5,6.36,4.85,7.9,0.6,1.75,0.4276,0.438,-15.64,191.67,-2.43,75.85,65.42
+Wonka Gum,Pacific,Standard Class,Secret Factory,Lot's O' Nuts,2743.0,1108.0,9.98,8.1,6.55,9.65,1.48,1.9,0.7309,0.4908,18.85,28.62,32.85,80.97,65.4
+Fun Dip,Gulf,Second Class,Sugar Shack,Wicked Choccy's,2043.0,1385.0,5.5,6.37,4.85,7.9,0.6,1.75,0.4276,0.4404,-15.82,191.67,-2.99,75.84,65.33
+Wonka Bar - Fudge Mallows,Interior,Same Day,Lot's O' Nuts,The Other Factory,2345.0,779.0,3.34,1.83,1.0,3.3,7.44,7.08,0.3538,0.1667,45.21,-4.84,52.88,30.0,65.1
+Wonka Bar - Triple Dazzle Caramel,Pacific,Same Day,Wicked Choccy's,Lot's O' Nuts,3790.0,1108.0,4.87,2.12,1.0,3.65,9.94,7.18,0.5936,0.215,56.49,-27.74,63.78,31.64,65.1
+Wonka Bar - Fudge Mallows,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,3445.0,1150.0,4.57,2.16,1.0,3.7,8.93,7.03,0.5393,0.221,52.7,-21.31,59.02,32.67,64.88
+Wonka Bar - Scrumdiddlyumptious,Atlantic,Same Day,Lot's O' Nuts,Wicked Choccy's,3445.0,1150.0,4.27,2.16,1.0,3.7,8.89,7.32,0.5245,0.221,49.42,-17.65,57.87,32.67,64.66
+Hair Toffee,Pacific,First Class,The Other Factory,Lot's O' Nuts,2903.0,1108.0,6.4,4.1,2.55,5.65,17.5,17.09,0.5698,0.3061,35.94,-2.34,46.28,62.4,64.58
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Same Day,Lot's O' Nuts,Secret Factory,3445.0,1388.0,4.27,2.39,1.0,3.9,8.12,7.25,0.5243,0.2567,43.97,-10.71,51.04,37.0,64.14
+Wonka Bar - Nutty Crunch Surprise,Interior,First Class,Lot's O' Nuts,Secret Factory,2345.0,249.0,5.41,3.24,1.75,4.8,9.18,7.43,0.4574,0.1757,40.12,-19.03,61.58,52.76,63.97
+Fun Dip,Gulf,Second Class,Sugar Shack,Lot's O' Nuts,2043.0,1594.0,5.5,6.58,5.05,8.1,0.6,1.74,0.4276,0.4721,-19.64,190.0,-10.41,76.56,63.86
+Lickable Wallpaper,Pacific,First Class,Secret Factory,Lot's O' Nuts,2743.0,1108.0,6.0,4.1,2.55,5.65,38.75,39.06,0.5318,0.3061,31.67,0.8,42.44,62.4,63.82
+Wonka Bar - Fudge Mallows,Interior,First Class,Lot's O' Nuts,Secret Factory,2345.0,249.0,5.41,3.24,1.75,4.8,8.97,7.16,0.4573,0.1757,40.12,-20.21,61.58,52.76,63.79
+Fun Dip,Interior,Second Class,Sugar Shack,Secret Factory,965.0,249.0,7.8,5.24,3.75,6.8,1.8,1.79,0.4209,0.268,32.82,-0.56,36.33,70.8,63.65
+Wonka Bar - Triple Dazzle Caramel,Pacific,First Class,Wicked Choccy's,Lot's O' Nuts,3790.0,1108.0,6.8,4.1,2.55,5.65,9.12,7.18,0.6899,0.3061,39.7,-21.28,55.63,62.4,63.43
+Wonka Bar - Fudge Mallows,Atlantic,Same Day,Lot's O' Nuts,Secret Factory,3445.0,1388.0,4.57,2.39,1.0,3.9,8.93,6.99,0.5393,0.2567,47.66,-21.75,52.4,37.0,63.36
+Wonka Bar - Fudge Mallows,Interior,Same Day,Lot's O' Nuts,Sugar Shack,2345.0,965.0,3.34,1.99,1.0,3.5,7.44,7.05,0.3538,0.1938,40.42,-5.24,45.22,30.0,63.32
+Wonka Bar - Fudge Mallows,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,3445.0,1150.0,6.45,4.14,2.65,5.7,8.16,7.03,0.6336,0.3124,35.84,-13.85,50.7,63.03,63.31
+Wonka Bar - Scrumdiddlyumptious,Interior,First Class,Lot's O' Nuts,Secret Factory,2345.0,249.0,5.48,3.24,1.75,4.8,9.95,7.46,0.4607,0.1757,40.84,-25.01,61.86,52.76,63.24
+Wonka Bar - Nutty Crunch Surprise,Interior,Same Day,Lot's O' Nuts,The Other Factory,2345.0,779.0,2.98,1.83,1.0,3.3,7.91,7.35,0.3359,0.1667,38.64,-7.07,50.37,30.0,63.2
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Same Day,Lot's O' Nuts,The Other Factory,3445.0,1529.0,4.27,2.53,1.05,4.05,8.12,7.23,0.5243,0.278,40.68,-10.96,46.97,40.09,63.2
+Wonka Bar - Milk Chocolate,Pacific,First Class,Wicked Choccy's,Lot's O' Nuts,3790.0,1108.0,6.93,4.1,2.55,5.65,8.22,6.18,0.6963,0.3061,40.8,-24.85,56.04,62.4,63.16
+Kazookles,Pacific,First Class,The Other Factory,Lot's O' Nuts,2903.0,1108.0,5.88,4.1,2.55,5.65,0.75,0.73,0.5438,0.3061,30.27,-2.67,43.71,62.4,63.15
+Wonka Bar - Scrumdiddlyumptious,Atlantic,Same Day,Lot's O' Nuts,Secret Factory,3445.0,1388.0,4.27,2.39,1.0,3.9,8.89,7.28,0.5245,0.2567,44.03,-18.1,51.06,37.0,63.05
+SweeTARTS,Interior,Second Class,Sugar Shack,Lot's O' Nuts,965.0,2345.0,7.4,7.33,5.85,8.85,1.4,2.66,0.4009,0.586,0.95,90.0,-46.17,79.19,63.03
+Wonka Bar - Milk Chocolate,Interior,Same Day,Wicked Choccy's,Secret Factory,1234.0,249.0,2.3,1.44,1.0,2.8,6.83,6.3,0.1765,0.0925,37.52,-7.79,47.6,30.0,62.6
+Wonka Bar - Scrumdiddlyumptious,Interior,Same Day,Lot's O' Nuts,The Other Factory,2345.0,779.0,3.34,1.83,1.0,3.3,9.46,7.38,0.3536,0.1667,45.14,-22.02,52.85,30.0,62.51
+Wonka Bar - Fudge Mallows,Atlantic,Same Day,Lot's O' Nuts,The Other Factory,3445.0,1529.0,4.57,2.53,1.05,4.05,8.93,6.97,0.5393,0.278,44.6,-21.98,48.45,40.09,62.47
+Wonka Bar - Scrumdiddlyumptious,Atlantic,Same Day,Lot's O' Nuts,The Other Factory,3445.0,1529.0,4.27,2.53,1.05,4.05,8.89,7.26,0.5245,0.278,40.75,-18.33,47.0,40.09,62.11
+Laffy Taffy,Pacific,Standard Class,Sugar Shack,Wicked Choccy's,2409.0,3790.0,9.9,10.78,9.25,12.3,1.24,2.28,0.689,0.8975,-8.89,83.87,-30.26,85.68,62.06
+Wonka Bar - Fudge Mallows,Atlantic,First Class,Lot's O' Nuts,Secret Factory,3445.0,1388.0,6.45,4.38,2.85,5.9,8.16,6.99,0.6336,0.3486,32.12,-14.34,44.99,64.78,62.01
+Wonka Bar - Scrumdiddlyumptious,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,3445.0,1150.0,6.47,4.14,2.65,5.7,9.6,7.32,0.6344,0.3124,36.0,-23.72,50.76,63.03,61.87
+Wonka Bar - Triple Dazzle Caramel,Interior,Same Day,Wicked Choccy's,Secret Factory,1234.0,249.0,2.17,1.44,1.0,2.8,7.78,7.31,0.1696,0.0925,33.49,-5.99,45.45,30.0,61.84
+Wonka Bar - Triple Dazzle Caramel,Pacific,Second Class,Wicked Choccy's,Lot's O' Nuts,3790.0,1108.0,8.83,6.1,4.55,7.65,9.02,7.18,0.7913,0.3984,30.88,-20.41,49.65,74.73,61.82
+Kazookles,Pacific,Same Day,The Other Factory,Lot's O' Nuts,2903.0,1108.0,3.45,2.12,1.0,3.65,0.88,0.73,0.4223,0.215,38.55,-16.57,49.09,31.64,61.72
+Wonka Bar - Scrumdiddlyumptious,Interior,Second Class,Lot's O' Nuts,Secret Factory,2345.0,249.0,7.31,5.24,3.75,6.8,9.06,7.46,0.5521,0.268,28.27,-17.68,51.46,70.8,61.69
+Laffy Taffy,Interior,First Class,Sugar Shack,Wicked Choccy's,965.0,1234.0,3.9,4.22,2.75,5.75,1.24,2.42,0.2259,0.3252,-8.21,95.16,-43.96,63.81,61.43
+Wonka Bar - Scrumdiddlyumptious,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,3445.0,1150.0,8.36,6.14,4.65,7.7,8.59,7.32,0.729,0.4047,26.56,-14.82,44.49,75.07,61.29
+Wonka Bar - Fudge Mallows,Atlantic,First Class,Lot's O' Nuts,The Other Factory,3445.0,1529.0,6.45,4.52,3.05,6.05,8.16,6.97,0.6336,0.3701,29.95,-14.58,41.59,66.07,61.27
+Wonka Bar - Nutty Crunch Surprise,Interior,Same Day,Lot's O' Nuts,Sugar Shack,2345.0,965.0,2.98,1.99,1.0,3.5,7.91,7.32,0.3359,0.1938,33.27,-7.45,42.31,30.0,61.27
+Wonka Gum,Pacific,Same Day,Secret Factory,Lot's O' Nuts,2743.0,1108.0,4.2,2.12,1.0,3.65,3.03,1.9,0.4418,0.215,49.52,-37.36,51.34,31.64,61.02
+Lickable Wallpaper,Gulf,Second Class,Secret Factory,The Other Factory,1369.0,782.0,6.27,5.77,4.25,7.3,30.0,39.34,0.3899,0.3489,7.93,31.13,10.52,73.31,60.97
+Wonka Gum,Gulf,Same Day,Secret Factory,The Other Factory,1369.0,782.0,3.6,1.83,1.0,3.3,2.6,1.92,0.2566,0.1672,49.17,-26.15,34.84,30.0,60.89
+Lickable Wallpaper,Pacific,Same Day,Secret Factory,Sugar Shack,2743.0,2409.0,2.8,3.4,1.85,4.95,20.0,37.97,0.3718,0.4112,-21.43,89.85,-10.6,54.7,60.87
+Wonka Bar - Fudge Mallows,Interior,Same Day,Lot's O' Nuts,Wicked Choccy's,2345.0,1234.0,3.34,2.24,1.0,3.75,7.44,7.01,0.3538,0.2336,32.93,-5.78,33.97,34.41,60.84
+Wonka Bar - Scrumdiddlyumptious,Interior,Same Day,Lot's O' Nuts,Sugar Shack,2345.0,965.0,3.34,1.99,1.0,3.5,9.46,7.35,0.3536,0.1938,40.34,-22.34,45.19,30.0,60.74
+Wonka Bar - Nutty Crunch Surprise,Interior,Second Class,Lot's O' Nuts,Secret Factory,2345.0,249.0,7.25,5.24,3.75,6.8,9.67,7.43,0.5493,0.268,27.72,-23.19,51.21,70.8,60.73
+Fizzy Lifting Drinks,Interior,First Class,Sugar Shack,The Other Factory,965.0,779.0,3.6,3.77,2.25,5.3,4.5,7.75,0.2109,0.2561,-4.72,72.22,-21.43,59.17,60.7
+Wonka Bar - Milk Chocolate,Pacific,Second Class,Wicked Choccy's,Lot's O' Nuts,3790.0,1108.0,8.83,6.1,4.55,7.65,8.64,6.18,0.7913,0.3984,30.89,-28.43,49.66,74.73,60.62
+Wonka Bar - Scrumdiddlyumptious,Atlantic,First Class,Lot's O' Nuts,Secret Factory,3445.0,1388.0,6.47,4.38,2.85,5.9,9.6,7.28,0.6344,0.3486,32.29,-24.14,45.05,64.78,60.58
+Wonka Bar - Nutty Crunch Surprise,Interior,First Class,Lot's O' Nuts,The Other Factory,2345.0,779.0,5.41,3.77,2.25,5.3,9.18,7.35,0.4574,0.2561,30.33,-19.9,44.0,59.17,60.44
+Wonka Gum,Pacific,Second Class,Secret Factory,Lot's O' Nuts,2743.0,1108.0,7.69,6.1,4.55,7.65,2.03,1.9,0.6162,0.3984,20.65,-6.46,35.34,74.73,60.43
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Same Day,Lot's O' Nuts,Sugar Shack,3445.0,1935.0,4.27,2.93,1.45,4.45,8.12,7.16,0.5243,0.3392,31.3,-11.82,35.3,47.78,60.41
+Fun Dip,Interior,Second Class,Sugar Shack,The Other Factory,965.0,779.0,7.8,5.77,4.25,7.3,1.8,1.77,0.4209,0.3484,26.03,-1.67,17.22,73.33,60.34
+Wonka Bar - Fudge Mallows,Interior,First Class,Lot's O' Nuts,The Other Factory,2345.0,779.0,5.41,3.77,2.25,5.3,8.97,7.08,0.4573,0.2561,30.33,-21.1,44.0,59.17,60.26
+Wonka Bar - Triple Dazzle Caramel,Gulf,Same Day,Wicked Choccy's,The Other Factory,1385.0,782.0,2.62,1.83,1.0,3.3,6.94,7.23,0.2097,0.1672,30.29,4.15,20.25,30.0,60.2
+Wonka Bar - Scrumdiddlyumptious,Atlantic,Second Class,Lot's O' Nuts,Secret Factory,3445.0,1388.0,8.36,6.38,4.85,7.9,8.59,7.28,0.729,0.4409,23.69,-15.29,39.52,75.82,60.19
+Wonka Bar - Fudge Mallows,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,3445.0,1150.0,8.52,6.14,4.65,7.7,9.31,7.03,0.7371,0.4047,27.95,-24.47,45.1,75.07,60.18
+Wonka Bar - Fudge Mallows,Interior,Second Class,Lot's O' Nuts,Secret Factory,2345.0,249.0,7.24,5.24,3.75,6.8,9.8,7.16,0.5488,0.268,27.63,-26.91,51.17,70.8,60.15
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Second Class,Lot's O' Nuts,Wicked Choccy's,3445.0,1150.0,8.53,6.14,4.65,7.7,9.71,7.29,0.7376,0.4047,28.03,-24.91,45.13,75.07,60.14
+Hair Toffee,Pacific,Standard Class,The Other Factory,Lot's O' Nuts,2903.0,1108.0,9.6,8.1,6.55,9.65,17.5,17.09,0.7298,0.4908,15.62,-2.34,32.75,80.97,60.1
+Wonka Bar - Triple Dazzle Caramel,Pacific,Standard Class,Wicked Choccy's,Lot's O' Nuts,3790.0,1108.0,10.92,8.1,6.55,9.65,9.49,7.18,0.8958,0.4908,25.79,-24.32,45.21,80.97,60.08
+Wonka Bar - Nutty Crunch Surprise,Interior,Standard Class,Lot's O' Nuts,Secret Factory,2345.0,249.0,9.38,7.24,5.75,8.8,9.35,7.43,0.6556,0.3603,22.78,-20.5,45.04,78.87,59.93
+Wonka Bar - Fudge Mallows,Atlantic,Same Day,Lot's O' Nuts,Sugar Shack,3445.0,1935.0,4.57,2.93,1.45,4.45,8.93,6.91,0.5393,0.3392,35.84,-22.65,37.11,47.78,59.87
+Wonka Bar - Scrumdiddlyumptious,Atlantic,First Class,Lot's O' Nuts,The Other Factory,3445.0,1529.0,6.47,4.52,3.05,6.05,9.6,7.26,0.6344,0.3701,30.13,-24.35,41.67,66.07,59.84
+Fizzy Lifting Drinks,Gulf,Standard Class,Sugar Shack,The Other Factory,2043.0,782.0,10.1,7.77,6.25,9.3,9.0,7.75,0.6576,0.4412,23.07,-13.89,32.91,80.18,59.83
+Wonka Bar - Scrumdiddlyumptious,Interior,Standard Class,Lot's O' Nuts,Secret Factory,2345.0,249.0,9.25,7.24,5.75,8.8,9.27,7.46,0.6492,0.3603,21.71,-19.51,44.5,78.87,59.81
+Lickable Wallpaper,Gulf,Standard Class,Secret Factory,The Other Factory,1369.0,782.0,8.66,7.77,6.25,9.3,34.0,39.34,0.5096,0.4412,10.28,15.71,13.42,80.18,59.76
+Wonka Bar - Scrumdiddlyumptious,Interior,First Class,Lot's O' Nuts,The Other Factory,2345.0,779.0,5.48,3.77,2.25,5.3,9.95,7.38,0.4607,0.2561,31.17,-25.81,44.41,59.17,59.76
+Wonka Bar - Nutty Crunch Surprise,Atlantic,First Class,Lot's O' Nuts,Wicked Choccy's,3445.0,1150.0,6.34,4.14,2.65,5.7,11.34,7.29,0.6278,0.3124,34.65,-35.71,50.24,63.03,59.75
+Wonka Gum,Pacific,Standard Class,Secret Factory,Sugar Shack,2743.0,2409.0,9.98,9.4,7.85,10.95,1.48,1.85,0.7309,0.6881,5.83,25.23,5.85,83.61,59.72
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,3445.0,1150.0,10.49,8.14,6.65,9.7,9.05,7.29,0.8353,0.497,22.37,-19.43,40.5,81.2,59.67
+Wonka Bar - Fudge Mallows,Atlantic,Standard Class,Lot's O' Nuts,Wicked Choccy's,3445.0,1150.0,10.5,8.14,6.65,9.7,8.82,7.03,0.8361,0.497,22.48,-20.27,40.55,81.2,59.57
+Wonka Bar - Scrumdiddlyumptious,Atlantic,Second Class,Lot's O' Nuts,The Other Factory,3445.0,1529.0,8.36,6.52,5.05,8.05,8.59,7.26,0.729,0.4624,22.01,-15.52,36.57,76.48,59.56
+Lickable Wallpaper,Pacific,Standard Class,Secret Factory,Lot's O' Nuts,2743.0,1108.0,9.96,8.1,6.55,9.65,43.68,39.06,0.73,0.4908,18.7,-10.59,32.76,80.97,59.48
+Wonka Bar - Scrumdiddlyumptious,Atlantic,Same Day,Lot's O' Nuts,Sugar Shack,3445.0,1935.0,4.27,2.93,1.45,4.45,8.89,7.19,0.5245,0.3392,31.39,-19.11,35.33,47.78,59.33
+Wonka Bar - Milk Chocolate,Pacific,Standard Class,Wicked Choccy's,Lot's O' Nuts,3790.0,1108.0,10.79,8.1,6.55,9.65,8.64,6.18,0.8893,0.4908,24.9,-28.51,44.81,80.97,59.23
+SweeTARTS,Pacific,Second Class,Sugar Shack,Lot's O' Nuts,2409.0,1108.0,7.2,6.1,4.55,7.65,2.8,2.73,0.554,0.3984,15.28,-2.5,28.09,74.73,59.23
+Wonka Bar - Nutty Crunch Surprise,Interior,First Class,Lot's O' Nuts,Sugar Shack,2345.0,965.0,5.41,3.95,2.45,5.5,9.18,7.32,0.4574,0.2843,27.0,-20.23,37.84,61.26,59.21
+Wonka Bar - Fudge Mallows,Interior,Standard Class,Lot's O' Nuts,Secret Factory,2345.0,249.0,9.3,7.24,5.75,8.8,9.48,7.16,0.6518,0.3603,22.15,-24.48,44.72,78.87,59.17
