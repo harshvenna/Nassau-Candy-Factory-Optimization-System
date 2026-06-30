@@ -1002,7 +1002,7 @@ fig = px.strip(
 )
 
 st.plotly_chart(fig, use_container_width=True)
-        st.markdown("### 💬 SHAP Business Interpretations")
+       st.markdown("### 💬 SHAP Business Interpretations")
         for _, row in shap_df.head(6).iterrows():
             feat = row["Feature"].replace("_"," ")
             pct  = row["Importance_Pct"]
